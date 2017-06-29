@@ -1,7 +1,7 @@
 {
   "name": "expansejs-util",
   "version": "5.1.2",
-  "description": "a collection of utility functions for EthExpanseereum",
+  "description": "a collection of utility functions for Expanse",
   "main": "index.js",
   "scripts": {
     "coverage": "istanbul cover _mocha",
