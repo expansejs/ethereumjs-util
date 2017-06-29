@@ -5,8 +5,7 @@
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)  
 
 
-
-A collection of utility functions for expanse. It can be used in node.js or can be in the browser with browserify.
+A collection of utility functions for Expanse. It can be used in node.js or can be in the browser with browserify.
 
 # API
 [./docs/](./docs/index.md)
