@@ -61,7 +61,7 @@ exports.SHA3_RLP = Buffer.from(exports.SHA3_RLP_S, 'hex')
 exports.BN = BN
 
 /**
- * [`rlp`](https://github.com/ethereumjs/rlp)
+ * [`rlp`](https://github.com/expansejs/rlp)
  * @var {Function}
  */
 exports.rlp = rlp
